@@ -1,0 +1,32 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+#Recette {
+        border: 1px black solid;
+    }
+
+
+#one {
+        border: 1px black solid;
+    }
+
+   
+h1 {
+    color:red;
+    text-align: center;
+    font-family: serif ;  
+  }
+
+#head2 {
+    font-family: serif;
+    text-align: center;
+    color: #C5D1D7;
+    background-color: black;
+}
+
+  
+body{
+        width: 500px;
+    }
+  
